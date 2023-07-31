@@ -1,4 +1,4 @@
-### Hey Everyone! I'm Cody. I'm currently an Information Security Specialist, and am looking to make headway into the cloud and learn Devops technologies, and DevSecOps methodologies. Feel free to follow my journey as I learn more.
+### Hey Everyone! I'm Cody. I'm currently an Information Security Specialist, and am looking to make headway into the cloud and learn Devops technologies, and DevSecOps methodologies.
 
 <!--
 **codykal/codykal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
